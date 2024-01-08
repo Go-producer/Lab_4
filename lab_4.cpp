@@ -4,7 +4,6 @@
 int main()
 { initwindow(800,600);
   
-  //sun(); 
    int p=0;// сначала текущая видимая страница 0
    int x=-50;
    while(!kbhit()){
