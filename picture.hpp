@@ -1,3 +1,2 @@
 void house();
-
-   
+void sun();
